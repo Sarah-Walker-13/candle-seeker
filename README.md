@@ -1,5 +1,7 @@
 # Candle Seeker
 
+![Status](https://img.shields.io/badge/status-active-success)
+
 烛影摇曳处，字句生光辉。
 
 A Chinese NLP corpus collector and annotator. Crawls open-source repositories
